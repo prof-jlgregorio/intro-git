@@ -5,3 +5,8 @@ body{
 h1{
     color: blue;
 }
+
+footer > p {
+    color: blue;
+    text-align: center;
+}
