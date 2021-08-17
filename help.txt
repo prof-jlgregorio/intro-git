@@ -2,3 +2,6 @@ Esse documento é a ajuda do sistema.
 
 1) Esse arquivos é confidencial
 2) Esse documento pertence à SHIELD.
+
+3) Bringando com a autenticação do Git!
+4) Era mais fácil antigamente!
