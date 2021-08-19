@@ -1,14 +1,14 @@
 body{
-    background-color: lightyellow;
+    background-color: lightgreen;
 }
 
 h1{
-    color: blue;
-    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 footer > p {
-    color: blue;
+    color: darkorange;
     text-align: center;
 }
 
