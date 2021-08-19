@@ -2,13 +2,12 @@ body{
     background-color: lightgreen;
 }
 
-h1{
-    color: orangered;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
-}
-
 footer > p {
     color: darkorange;
-    text-align: center;
+    background-color: aqua;
 }
 
+h1{
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
