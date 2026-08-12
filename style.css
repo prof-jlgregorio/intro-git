@@ -12,3 +12,8 @@ ul > li {
     display: flex;
     column-gap: 0.5rem;
 }
+
+a:link, a:visited, a:active {
+    background-color: aquamarine;
+    color: blue;
+}
