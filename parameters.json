@@ -1,5 +1,6 @@
 {
     "appName" : "ADS",
     "version:" : "1.0.0",
-    "developer": "Fatec Jales"
+    "developer": "Fatec Jales",
+    "build" : "2026-08-12"
 }
